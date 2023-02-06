@@ -5,8 +5,8 @@ Implementation of D2IQA described in [No-reference perceptual CT image quality a
 ## Dataset
 
 ### In vivo clinical data with noise artifact (Mayo)
-CT imagese from the [2016 Low Dose CT Grand Challenge dataset](www.aapm.org/GrandChallenge/LowDoseCT/)
-Train/validation dataset consists of 7 patients.
+CT imagese from the [2016 Low Dose CT Grand Challenge dataset](www.aapm.org/GrandChallenge/LowDoseCT/)\\
+Train/validation dataset consists of 7 patients.\\
 The radiation dose corresponding to each folder is as follows:
 |Folder Name|full|full_0.5|quarter|quarter_0.5|quarter_1.0|quarter_1.5|quarter_2.0|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -19,7 +19,7 @@ The radiation dose corresponding to each folder is as follows:
 |Radiation Dose|100%|50%|25%|10%|5%| 
 
 ### In vivo clinical data with noise artifact (CQ500)
-CT imagese described in [Development and Validation of Deep Learning Algorithms for Detection of Critical Findings in Head CT Scans](https://arxiv.org/abs/1803.05854) available at [qure.ai](http://headctstudy.qure.ai/#about)
+CT imagese described in [Development and Validation of Deep Learning Algorithms for Detection of Critical Findings in Head CT Scans](https://arxiv.org/abs/1803.05854) available at [qure.ai](http://headctstudy.qure.ai/#about)\\
 The noise level corresponding to each folder is as follows. Note that the folder names have nothing to do with radiation dose.
 |Folder Name|quarter|quarter_0.5|quarter_1.0|quarter_1.5|quarter_2.0|quarter_2.5|quarter_3.0|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
