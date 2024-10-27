@@ -69,14 +69,6 @@ To train D2IQA for CT abdomen images, download the dicom images from the [2016 L
 data_root/
 └── Mayo-Clinic/
     ├── tiff/
-    │   ├── raw/
-    │   ├── processed/
-    │   │   └── dataset.csv
-    ├── models/
-    │   ├── model_weights.pth
-    ├── scripts/
-    │   └── preprocess.py
-    └── tiff
         └── full_1mm
         │   ├── L067
         |   |   ├── 000.tiff
