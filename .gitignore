@@ -1,0 +1,8 @@
+
+result/*
+work_dirs/*
+test_result/*.csv
+test_result/*.xlsx
+
+__pycache__/
+saliency/__pycache__/*
