@@ -1,4 +1,4 @@
-# Efficient Deep-Detector Image Quality Assessment Based on Knowledge Distillation
+# No-reference perceptual CT image quality assessment based on a self-supervised learning framework
 
 This repo contains the supported code and configuration files to reproduce image quality assessment results of [No-reference perceptual CT image quality assessment based on a self-supervised learning framework](doi.org/10.1088/2632-2153/aca87d). 
 
